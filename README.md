@@ -1,16 +1,36 @@
-# React + Vite
+# Smart Office Booking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Hosted URL
+https://officebookingproject.web.app
 
-Currently, two official plugins are available:
+## Project Description
+A React-based web application for booking office rooms/desks with full CRUD functionality using Firebase Realtime Database. The app is responsive and works across mobile, tablet, and desktop devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Create, Read, Update, Delete bookings
+- Firebase Realtime Database integration
+- Responsive UI (Mobile / Tablet / Desktop)
+- PWA support
+- Tailwind CSS styling
 
-## React Compiler
+- ## Tech Stack
+- React (Vite)
+- Tailwind CSS
+- Firebase (Auth, Realtime DB, Hosting)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ## Setup Instructions
 
-## Expanding the ESLint configuration
+git clone https://github.com/shahmeemaryam/smart-office-booking.git - 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm install-
+
+npm run dev
+
+npm run build
+
+## Firebase
+This project uses Firebase for authentication, database, and hosting.
+
+## Author
+Shahmee Maryam
+CB016798
