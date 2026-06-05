@@ -10,35 +10,35 @@
           "type": "desk",
           "name": "Desk 1A",
           "capacity": 2,
-          "image": "/rooms/desk-2-ppl.jpg"
+          "image": "/rooms/desk-2.webp"
         },
         {
           "id": "desk-1B",
           "type": "desk",
           "name": "Desk 1B",
           "capacity": 1,
-          "image": "/rooms/desk-1.jpg"
+          "image": "/rooms/desk-1.webp"
         },
         {
           "id": "desk-1C",
           "type": "desk",
           "name": "Desk 1C",
           "capacity": 1,
-          "image": "/rooms/desk-2.jpg"
+          "image": "/rooms/desk-2-1.webp"
         },
         {
           "id": "room-1A",
           "type": "room",
           "name": "Meeting Room Alpha",
           "capacity": 6,
-          "image": "/rooms/room6.jpg"
+          "image": "/rooms/room-6.webp"
         },
         {
           "id": "room-1B",
           "type": "room",
           "name": "Meeting Room Beta",
           "capacity": 10,
-          "image": "/rooms/room-10.jpg"
+          "image": "/rooms/room-10.webp"
         }
       ]
     },
@@ -51,21 +51,21 @@
           "type": "desk",
           "name": "Desk 2A",
           "capacity": 1,
-          "image": "/rooms/desk-3.jpg"
+          "image": "/rooms/desk-3.webp"
         },
         {
           "id": "desk-2B",
           "type": "desk",
           "name": "Desk 2B",
           "capacity": 1,
-          "image": "/rooms/desk4.jpg"
+          "image": "/rooms/desk-4.webp"
         },
         {
           "id": "room-2A",
           "type": "room",
           "name": "Conference Room",
           "capacity": 20,
-          "image": "/rooms/room-20.jpg"
+          "image": "/rooms/room-20.webp"
         }
       ]
     }
